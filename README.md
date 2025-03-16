@@ -1,4 +1,3 @@
 # sharfyav-code
-This is my first repository
-Author = sharfyav
+This is my first repository <br>Author = sharfyav
 
